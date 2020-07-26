@@ -35,7 +35,7 @@ DOWN2_YANCHOR = 'bottom'
 COLOR_SCALE_GREYS = px.colors.sequential.Greys
 
 CONFIG_ANNOTATIONS_TIMELINE = {
-   'arrowwidth': 2.5,
+    'arrowwidth': 2.5,
     'arrowhead': 6,
     'arrowcolor': COLOR_SCALE_GREYS[3],
     'ax': 0,
@@ -170,5 +170,9 @@ def graph(self, data_dict=None, back_config=None, data_events=None):
     return fig
 
 if __name__ == '__main__':
-    pass
+    
+
+
+
+    fig = graph(data_dict, back_config, data_events)
 
