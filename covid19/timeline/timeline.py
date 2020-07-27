@@ -16,6 +16,7 @@ This file contains the following functions:
 # Imports
 import plotly.graph_objects as go
 import numpy as np 
+from covid19.general import layout
 
 
 # Variables
@@ -30,30 +31,6 @@ DOWN1_YANCHOR = 'bottom'
 
 DOWN2_POSITION = 200
 DOWN2_YANCHOR = 'bottom'
-
-# Color scales of the timeline
-COLOR_SCALE_GREYS = px.colors.sequential.Greys
-
-CONFIG_ANNOTATIONS_TIMELINE = {
-    'arrowwidth': 2.5,
-    'arrowhead': 6,
-    'arrowcolor': COLOR_SCALE_GREYS[3],
-    'ax': 0,
-    'showarrow': True, 
-    'font': {
-        'color': COLOR_SCALE_GREYS[6], 
-        'size': 12,
-    },
-    'bgcolor': "#FFFFFF", 
-    'align': 'left',
-    'xref': 'x',
-    'yref': 'y',
-    'xanchor': 'left',
-    'yanchor': 'top',
-    'width': 200,
-    'borderpad': 4,
-    'arrowsize': 0.8,
-}
 
 def graph(self, data_dict=None, back_config=None, data_events=None):
     """ Gets events data and return a go.Figure object with the timeline graph
@@ -172,7 +149,9 @@ def graph(self, data_dict=None, back_config=None, data_events=None):
 if __name__ == '__main__':
     
 
-
+    data_dict = {}
+    back_config = {}
+    data_events = {}
 
     fig = graph(data_dict, back_config, data_events)
 

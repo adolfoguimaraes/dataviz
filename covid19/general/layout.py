@@ -109,8 +109,6 @@ CONFIG_ANNOTATIONS_TIMELINE = {
     'arrowsize': 0.8,
 }
 
-
-
 def change_color_bar(fig, graph_number, bar_info):
     
     index_ = np.where(fig['data'][graph_number].x == bar_info['x'])
@@ -125,8 +123,6 @@ def change_color_bar(fig, graph_number, bar_info):
     
     return fig
     
-    
-
 def update(fig, default_config, extra_config=None):
 
     # Apply default layout
