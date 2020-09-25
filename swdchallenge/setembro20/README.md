@@ -8,6 +8,6 @@ Vale ressaltar um ponto: no caso das informações sobre **Sem instrução** e *
 
 ![dashimage](Dashboard_Setembro20.png)
 
-Quem quiser comentar, só acessar o [instagram](https://www.instagram.com/profadolfoguimaraes) que fiz uma postagem sobre isso e dar sua contribuição :) 
+Quem quiser comentar, só acessar o [instagram](https://www.instagram.com/p/CFkSII9BL24/?utm_source=ig_web_copy_link) que fiz uma postagem sobre isso e dar sua contribuição nos comentários :) 
 
 Até o próximo desafio.
