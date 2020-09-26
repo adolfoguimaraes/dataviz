@@ -4,7 +4,9 @@ Repositório para colocar os artefados produzidos durante o meu estudo sobre vis
 
 ## Links para os trabalhos
 
-- **[covid-19](https://covid19.data2learning.com)**: Desenvolvi alguns gráficos para o Dashboard da COVID-19 disponível em [https://covid19.data2learning.com](https://covid19.data2learning.com).
+- **[SWD Challenge - Setembro](swdchallenge/setembro20/):** visualização criada para o desafio de Setembro do site [http://storytellingwithdata.com/](http://storytellingwithdata.com/).
+
+- **[covid-19](https://covid19.data2learning.com):** Desenvolvi alguns gráficos para o Dashboard da COVID-19 disponível em [https://covid19.data2learning.com](https://covid19.data2learning.com).
 
 ## Postagem no blog
 
