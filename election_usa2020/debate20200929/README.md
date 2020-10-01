@@ -8,7 +8,7 @@ Segue a visualização criada com os comentários sobre a mesma :)
 
 ## Visualização
 
-![dashimage](Dashboard - What did they say - Trump x Biden 1.png)
+![dashimage](Dashboard_What_did_they_say_Trump_Biden_1.png)
 
 
 ## Comentários
