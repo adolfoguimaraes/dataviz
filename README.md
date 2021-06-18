@@ -10,6 +10,8 @@ Repositório para colocar os artefados produzidos durante o meu estudo sobre vis
 
 - **[covid-19](https://covid19.data2learning.com):** Desenvolvi alguns gráficos para o Dashboard da COVID-19 disponível em [https://covid19.data2learning.com](https://covid19.data2learning.com).
 
+- **[covid-19 vacinacao](https://covid19-vacinacao.data2learning.com):** Novo painel com os dados da vacinação de Sergipe disponível em [https://covid19-vacinacao.data2learning.com](https://covid19-vacinacao.data2learning.com). Visualizações construídas utilizando D3.js e React.
+
 ## Postagem no blog
 
 Lista de postagem sobre  o tema que escrevi no blog [Data2Learning](https://www.data2learning.com)
